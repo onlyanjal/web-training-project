@@ -1,0 +1,6 @@
+there is some data
+so this is god for all
+this is my test file
+:wq
+:q!
+q
